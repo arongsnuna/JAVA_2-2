@@ -1,3 +1,4 @@
 # JAVA_2-2 
-Sangmyung Univ. 2nd Grade, 2nd Semester
+Sangmyung Univ. <br/>
+2nd Grade, 2nd Semester <br/>
 Object-oriented program
