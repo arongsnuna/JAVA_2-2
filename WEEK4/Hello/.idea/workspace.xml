@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0af16f3-fef8-4cef-9157-1e089652cfc7" name="Changes" comment="" />
+    <list default="true" id="a53df785-1cfc-438e-bfab-81ec58d43c3b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +14,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1yqx0jvDxWWt47rsjYGrpi74a4U" />
+  <component name="ProjectId" id="1z33eEROPaQabedZsb7PGr68LIl" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,9 +23,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TestHello">
     <configuration name="TestHello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestHello" />
+      <module name="Hello" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHello_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestHello_" />
       <module name="Hello" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -34,17 +41,18 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.TestHello" />
+        <item itemvalue="Application.TestHello_" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c0af16f3-fef8-4cef-9157-1e089652cfc7" name="Changes" comment="" />
-      <created>1632992700972</created>
+      <changelist id="a53df785-1cfc-438e-bfab-81ec58d43c3b" name="Changes" comment="" />
+      <created>1633363040210</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1632992700972</updated>
+      <updated>1633363040210</updated>
     </task>
     <servers />
   </component>
