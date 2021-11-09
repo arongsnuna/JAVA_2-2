@@ -2,7 +2,7 @@ class Sum1{
     int num;
     int sum = 0;
     int add(int num){
-        if (num < 50){ return sum;}
+        if (num <= 50){ return sum;}
         else if (num > 100) {
             sum += num;
             getSum();
@@ -19,9 +19,9 @@ class Sum1{
 public class WorkSum {
     public static void main(String[] args){
         Sum1 s = new Sum1();
-        s.add(101); //101
+        s.add(101); //101 
         System.out.println("a");
-        s.add(51); //101
+        s.add(51); //101\
         System.out.println("a");
         s.add(50); //x
         System.out.println("a");
